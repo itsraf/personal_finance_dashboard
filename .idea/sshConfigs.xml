@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="github.com" id="a5b23537-4c9d-4d8a-88ed-f5e2d1109463" port="22" nameFormat="DESCRIPTIVE" username="git" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
