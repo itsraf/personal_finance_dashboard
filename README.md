@@ -2,8 +2,8 @@
 
 Improve knowledge of tech stack:
 
-** Front-end**: Angular with HTML/CCS
+**Front-end**: Angular with HTML/CCS
 
-** Back-end**: Java and Spring Boot
+**Back-end**: Java and Spring Boot
 
-** Database**: SQL with focus on PostgreSQL
+**Database**: SQL with focus on PostgreSQL
